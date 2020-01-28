@@ -3,6 +3,6 @@
 ## Como rodar
 
 ```
-npm install
-npm run dev
+npm install ou yarn
+npm run dev ou yarn run dev
 ```
