@@ -1,23 +1,23 @@
 const data = {
-    title: 'Meu currículo',
-    name: 'William Oliveira',
-    profession: 'Software Engineer',
-    description: 'Experiência em desenvolvimento de single page applications com JavaScript e frameworks JavaScript (já trabalhei com Angular e React), module bundlers, package managers, transpilers (como Babel), pre processadores CSS (Sass e Stylus), task managers, arquitetura CSS (como BEM e SMACSS), Git, SEO, acessibilidade e usabilidade.',
+    title: 'Currículo do Dev Jr.',
+    name: '< Joseilton Junior />',
+    profession: 'Desenvolvedor Jr.',
+    description: 'Apaixonado por Tecnologia, Inovação e Desenvolvimento. Autodidata, consumista de cursos e conteúdos online, Militar do Exército Brasileiro e em busca do primeiro job na área de T.I como Desenvolvedor. Conhecimento em: HTML, CSS, JavaScript, Node, React, React Native, Git, GitHub, SPA, Bootstrap, Materialize, API, Yarn, NPM, jQuery. Nas horas vagas: Fotógrafo, Designer e Suporte Técnico.',
     experience: [{
-        company: 'Loggi Tecnologia',
-        office: 'Software Engineer',
-        description: 'Trabalho no squad de desenvolvimento do software de gestão de warehouses da Loggi, o ProXD. Nosso trabalho é automatizar os processos de recebimento, gestão, armazenamento, transferências e expedição de pacotes, cortes, rotas e monitoramento dos pacotes e sacas de entregas para ecommerces.'
+        company: 'Exército Brasileiro',
+        office: 'Suporte Técnico',
+        description: 'Manutenção de computadores, notebooks, rede e impressoras do Quartel onde sirvo, também presto serviços de fotógrafo e criador de conteúdos.'
     },
     {
-        company: 'Casa do Código',
-        office: 'Escritor',
-        description: 'Autor do livro: O universo da programação: Um guia de carreira em desenvolvimento de software'
+        company: 'Exército Brasileiro',
+        office: 'Auxiliar Administrativo',
+        description: 'Elaboração de documentos, boletins, planilhas, slides para apresentações, protocolo e arquivamento de documentos.'
     }],
     education: [{
-        institution: 'Vida',
-        description: 'Sobrevivência nas ruas'
+        institution: 'Faculdade Imaculada Conceição do Recife',
+        description: 'Análise e Desenvolvimento de Sistemas'
     }],
-    skills: ['backend', 'frontend', 'infra', 'mobile']
+    skills: ['backend', 'frontend', 'mobile', 'suporte']
 }
 
 module.exports = data;

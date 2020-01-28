@@ -1,6 +1,16 @@
 body {
-    font: 18px "Lucida Grande", Helvetica, Arial, sans-serif;
+    font: 18px "Fira Code", Helvetica, Arial, sans-serif;
     line-height: 2;
+    background-color: #222;
+    color: #ddd;
+}
+
+a {
+    color: rgb(204, 207, 10);
+}
+
+a:hover{
+    color: #ddd;
 }
 
 main, footer {
